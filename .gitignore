@@ -36,7 +36,3 @@ node_modules/ansi-align/LICENSE
 node_modules/yallist/
 
 node_modules/
-
-package-lock.json
-
-package.json
