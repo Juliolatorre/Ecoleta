@@ -22,7 +22,7 @@
 
 Este projeto foi desenvolvido durante a primeira **[Next Level Week](https://nextlevelweek.com/)**, realizada pela **[@Rocketseat](https://github.com/Rocketseat)** durante os dias 01 a 07 de Junho de 2020.
 
-#NLW 🚀 é uma experiência online com muito conteúdo prático, desafios e hacks que ajuda o dev (Dev é a abreviação de developer, uma palavra que não tem gênero. Ou seja, dev pode ser tanto um programador quanto uma programadora 👨‍🚀👩‍🚀), a avançar para o próximo nível.
+**#NLW** 🚀 é uma experiência online com muito conteúdo prático, desafios e hacks que ajudam os desenvolvedores 👨‍🚀👩‍🚀, a avançar para o próximo nível.
 
 Projeto da **Next Level Week 1.0.**
 
