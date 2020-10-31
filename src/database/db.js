@@ -67,6 +67,7 @@ module.exports = db
     //      console.log(rows)
     // })
     // deletar um dado da tabela
+<<<<<<< HEAD
 //     db.run(`DELETE FROM places WHERE id = ?`, [5, 6, 7 ], function(err) {
 //         if(err) {
 //             return console.log(err)
@@ -75,3 +76,13 @@ module.exports = db
 //         console.log("Registro deletado com sucesso!")
 //     })
 // // })
+=======
+    // db.run(`DELETE FROM places WHERE id = ?`, [4], function(err) {
+    //     if(err) {
+    //         return console.log(err)
+    //     } 
+
+    //     console.log("Registro deletado com sucesso!")
+    // })
+// })
+>>>>>>> 83a2309ed45483a2aefacad9d73743974e89db0a
